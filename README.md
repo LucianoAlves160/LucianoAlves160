@@ -36,24 +36,14 @@ Atualmente, meu principal foco está em:
 
 <br>
 
-<h4 align="center">Análise de Dados & Ferramentas</h4>
+<h4 align="center">Linguagens & Análise de Dados</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-typing-svg/main/assets/icons/skills/postgresql-color.svg" width="45" height="45" alt="SQL" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80f119e9938023f8a00903859570a22236414739/topics/knime/knime.png" width="45" height="45" alt="KNIME" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80f119e9938023f8a00903859570a22236414739/topics/python/python.png" width="45" height="45" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=postgres,python&theme=dark" />
 </p>
 
 <h4 align="center">Desenvolvimento & Ferramentas do Dia a Dia</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-typing-svg/main/assets/icons/skills/git-color.svg" width="45" height="45" alt="Git" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-typing-svg/main/assets/icons/skills/github-color.svg" width="45" height="45" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-typing-svg/main/assets/icons/skills/visualstudiocode-color.svg" width="45" height="45" alt="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-typing-svg/main/assets/icons/skills/figma-color.svg" width="45" height="45" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -104,7 +94,6 @@ Atualmente, meu principal foco está em:
         <img src="https://img.shields.io/badge/SQL-E91E63?style=flat-square" />
         <img src="https://img.shields.io/badge/KNIME-E91E63?style=flat-square" />
       </p>
-
       <p>Workflows e scripts para higienização, tratamento, estatística descritiva e exportação de dados analíticos.</p>
       <a href="https://github.com/LucianoAlves160">
         <img src="https://img.shields.io/badge/VER%20PROJETO-E91E63?style=for-the-badge&logo=github&logoColor=white" />
