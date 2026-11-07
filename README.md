@@ -89,13 +89,13 @@ Atualmente, meu principal foco está em:
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <h4>📊 Análise de Dados com KNIME & SQL</h4>
+      <h4>📝 Task Manager</h4>
       <p>
-        <img src="https://img.shields.io/badge/SQL-E91E63?style=flat-square" />
-        <img src="https://img.shields.io/badge/KNIME-E91E63?style=flat-square" />
+        <img src="https://img.shields.io/badge/Produtividade-E91E63?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gerenciador-E91E63?style=flat-square" />
       </p>
-      <p>Workflows e scripts para higienização, tratamento, estatística descritiva e exportação de dados analíticos.</p>
-      <a href="https://github.com/LucianoAlves160">
+      <p>Mini gerenciador de tarefas desenvolvido para organização pessoal, controle de atividades e otimização de fluxo de trabalho.</p>
+      <a href="https://github.com/LucianoAlves160/TaskFlow-Gerenciador-de-Tarefas">
         <img src="https://img.shields.io/badge/VER%20PROJETO-E91E63?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
