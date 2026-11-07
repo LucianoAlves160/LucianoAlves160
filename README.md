@@ -23,10 +23,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em tecnologi
 Gosto de aprender na prática, experimentar novas tecnologias e transformar dados e ideias em projetos organizados e eficientes.
 
 Atualmente, meu principal foco está em:
-* ⚙️ **Análise e manipulação de dados** com SQL e KNIME
-* 🧠 **Exploração e aplicação de IA Generativa** em soluções digitais
-* 💻 **Desenvolvimento de sistemas e aplicações web**
-* 📊 **Tratamento, transformação e visualização de dados**
+- ⚙️ **Análise e manipulação de dados** com SQL e KNIME
+- 🧠 **Exploração e aplicação de IA Generativa** em soluções digitais
+- 💻 **Desenvolvimento de sistemas e aplicações web**
+- 📊 **Tratamento, transformação e visualização de dados**
 
 ---
 
@@ -112,7 +112,11 @@ Atualmente, meu principal foco está em:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoAlves160&theme=react-dark&color=912f56&line=e91e63&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoAlves160/LucianoAlves160/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoAlves160/LucianoAlves160/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LucianoAlves160/LucianoAlves160/output/github-snake-dark.svg">
+  </picture>
 </div>
 
 ---
